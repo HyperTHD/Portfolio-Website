@@ -1,63 +1,36 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://AG9.github.io/",
+    "name": "Abdulbasid Guled",
+    "role": "3rd year Seneca College Software Development Student",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/hyperthd",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"http://twitter.com/hyperthd",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently in my 3rd year of Software Development at Seneca College in the BSD (Bacholar of Technology: Software Development) program in Toronto, Canada. My main enjoyment comes from doing web development. I mostly work in the front-end but also have experience working on the backend. I'm currently developing a full-stack application as part of my capstone project, and I have also made contributions to open source projects, my most recent one being the Telescope project for our school.",
+    "address":"112-70 John Garland Blvd",
+    "website":"https://AG9.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Seneca College of Applied Arts and Technology ",
+        "specialization":"Software Development",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2022",
+        "Achievements":"2 semester with a 3.9 GPA, currently holding a CGPA of 3.8"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "skillsDescription":"Your skills here",
+
+    "skillsDescription":"Here's a list of technologies and languages that I'm familiar with",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,41 +39,43 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"REACTJS"
+      },
+      {
+        "skillname":"JAVASCRIPT"
+      },
+      {
+        "skillname":"TYPESCRIPT"
+      },
+      {
+        "skillname":"C++"
+      },
+      {
+        "skillname":"C"
+      },
+      {
+        "skillname":"JAVA"
+      },
+      {
+        "skillname":"PYTHON"
+      },
+      {
+        "skillname":"VUEJS"
+      },
+      {
+        "skillname":"ANGULAR"
+      },
+      {
+        "skillname":"BASH"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+        "name":"urlAutomationMachine",
+        "description":"Python cmd tool to check whether a url is valid or not",
+        "imgurl":"images/portfolio/urlAutomationMachine.png"
+      }  
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
   }
   
   export default resumeData
